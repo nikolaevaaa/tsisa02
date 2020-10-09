@@ -5,3 +5,7 @@
 ### Выполнение
 ![Зависимость N от p и q](https://github.com/nikolaevaaa/tsisa02/blob/main/lab2.1.png?raw=true)
 
+![Результаты поиска экстремума f(x) в зависимости от P и q.](https://github.com/nikolaevaaa/tsisa02/blob/main/lab2.2.png?raw=true)
+
+![ Результаты поиска экстремума f(x)*sin(5x) в зависимости от P и q.](https://github.com/nikolaevaaa/tsisa02/blob/main/lab2.3.png?raw=true)
+
